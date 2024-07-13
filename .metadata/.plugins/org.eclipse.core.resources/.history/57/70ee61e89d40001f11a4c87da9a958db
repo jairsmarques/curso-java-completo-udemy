@@ -1,0 +1,16 @@
+
+public class SaidaDeDados {
+
+	public static void main(String[] args) {
+		
+		//saida de dados sem quebra de linha
+		System.out.print("Bom dia");
+		System.out.print("Olá mundo!");
+		
+		//saidad we dados com quebra de linha
+		System.out.println("Bom Dia");
+		System.out.println("Olá mundo!");
+
+	}
+
+}
