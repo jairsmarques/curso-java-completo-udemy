@@ -1,0 +1,753 @@
+!SESSION 2026-01-15 10:21:08.820 -----------------------------------------------
+eclipse.buildId=4.38.0.202512052019
+java.version=25.0.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.springframework.boot.ide.branding.springtools
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.springtools
+
+!ENTRY ch.qos.logback.classic 1 0 2026-01-15 10:24:16.867
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-01-15 10:28:07.187
+!MESSAGE Logback config file: C:\curso-java-completo-udemy\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.7.101.20251017-1242.xml
+
+!ENTRY org.eclipse.ui 2 0 2026-01-15 10:28:14.607
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2026-01-15 10:28:14.607
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2026-01-15 10:28:20.085
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2026-01-15 10:28:20.085
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.egit.ui 2 0 2026-01-15 10:32:38.219
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\tech'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui.workbench 4 0 2026-01-15 10:37:17.197
+!MESSAGE Failed to obtain 'WinDefend' service state
+!STACK 0
+java.io.IOException: Process timed-out and it was attempted to forcefully terminate it
+	at org.eclipse.ui.internal.WindowsDefenderConfigurator.runProcess(WindowsDefenderConfigurator.java:395)
+	at org.eclipse.ui.internal.WindowsDefenderConfigurator.runPowershell(WindowsDefenderConfigurator.java:369)
+	at org.eclipse.ui.internal.WindowsDefenderConfigurator.isWindowsDefenderServiceRunning(WindowsDefenderConfigurator.java:302)
+	at org.eclipse.ui.internal.WindowsDefenderConfigurator.runExclusionCheck(WindowsDefenderConfigurator.java:159)
+	at org.eclipse.ui.internal.WindowsDefenderConfigurator.lambda$0(WindowsDefenderConfigurator.java:106)
+	at org.eclipse.core.runtime.jobs.Job$2.run(Job.java:187)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SESSION 2026-01-15 10:47:18.342 -----------------------------------------------
+eclipse.buildId=4.38.0.202512052019
+java.version=25.0.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.springframework.boot.ide.branding.springtools
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.springtools
+
+!ENTRY ch.qos.logback.classic 1 0 2026-01-15 10:47:59.053
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-01-15 10:48:44.470
+!MESSAGE Logback config file: C:\curso-java-completo-udemy\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.7.101.20251017-1242.xml
+
+!ENTRY org.eclipse.ui 2 0 2026-01-15 10:48:48.985
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2026-01-15 10:48:48.985
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2026-01-15 10:48:52.936
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2026-01-15 10:48:52.936
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.egit.ui 2 0 2026-01-15 10:50:02.242
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\tech'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui.workbench 4 0 2026-01-15 10:50:25.480
+!MESSAGE Failed to obtain 'WinDefend' service state
+!STACK 0
+java.io.IOException: Process timed-out and it was attempted to forcefully terminate it
+	at org.eclipse.ui.internal.WindowsDefenderConfigurator.runProcess(WindowsDefenderConfigurator.java:395)
+	at org.eclipse.ui.internal.WindowsDefenderConfigurator.runPowershell(WindowsDefenderConfigurator.java:369)
+	at org.eclipse.ui.internal.WindowsDefenderConfigurator.isWindowsDefenderServiceRunning(WindowsDefenderConfigurator.java:302)
+	at org.eclipse.ui.internal.WindowsDefenderConfigurator.runExclusionCheck(WindowsDefenderConfigurator.java:159)
+	at org.eclipse.ui.internal.WindowsDefenderConfigurator.lambda$0(WindowsDefenderConfigurator.java:106)
+	at org.eclipse.core.runtime.jobs.Job$2.run(Job.java:187)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-01-15 10:57:06.778
+!MESSAGE Timed out after waiting for 300ms for semantic tokens from Language Servers
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1981)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2116)
+	at org.eclipse.lsp4e.jdt.LSJavaSemanticTokensProvider.computeSemanticTokens(LSJavaSemanticTokensProvider.java:68)
+	at org.eclipse.jdt.internal.ui.javaeditor.SemanticHighlightingReconciler.getContributedSemanticTokens(SemanticHighlightingReconciler.java:423)
+	at org.eclipse.jdt.internal.ui.javaeditor.SemanticHighlightingReconciler.reconciled(SemanticHighlightingReconciler.java:470)
+	at org.eclipse.jdt.internal.ui.javaeditor.CompilationUnitEditor.reconciled(CompilationUnitEditor.java:1674)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconciled(JavaReconcilingStrategy.java:228)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconciled(JavaCompositeReconcilingStrategy.java:171)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.initialReconcile(JavaCompositeReconcilingStrategy.java:147)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.initialProcess(MonoReconciler.java:98)
+	at org.eclipse.jdt.internal.ui.text.JavaReconciler.initialProcess(JavaReconciler.java:398)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundWorker.lambda$0(AbstractReconciler.java:237)
+	at org.eclipse.core.runtime.jobs.Job$1.run(Job.java:166)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-01-15 10:57:18.749
+!MESSAGE Timed out after waiting for 300ms for semantic tokens from Language Servers
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1981)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2116)
+	at org.eclipse.lsp4e.jdt.LSJavaSemanticTokensProvider.computeSemanticTokens(LSJavaSemanticTokensProvider.java:68)
+	at org.eclipse.jdt.internal.ui.javaeditor.SemanticHighlightingReconciler.getContributedSemanticTokens(SemanticHighlightingReconciler.java:423)
+	at org.eclipse.jdt.internal.ui.javaeditor.SemanticHighlightingReconciler.reconciled(SemanticHighlightingReconciler.java:470)
+	at org.eclipse.jdt.internal.ui.javaeditor.CompilationUnitEditor.reconciled(CompilationUnitEditor.java:1674)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconciled(JavaReconcilingStrategy.java:228)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconciled(JavaCompositeReconcilingStrategy.java:171)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:115)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:77)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundWorker.run(AbstractReconciler.java:201)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-01-15 10:57:20.886
+!MESSAGE Timed out after waiting for 300ms for semantic tokens from Language Servers
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1981)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2116)
+	at org.eclipse.lsp4e.jdt.LSJavaSemanticTokensProvider.computeSemanticTokens(LSJavaSemanticTokensProvider.java:68)
+	at org.eclipse.jdt.internal.ui.javaeditor.SemanticHighlightingReconciler.getContributedSemanticTokens(SemanticHighlightingReconciler.java:423)
+	at org.eclipse.jdt.internal.ui.javaeditor.SemanticHighlightingReconciler.reconciled(SemanticHighlightingReconciler.java:470)
+	at org.eclipse.jdt.internal.ui.javaeditor.CompilationUnitEditor.reconciled(CompilationUnitEditor.java:1674)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconciled(JavaReconcilingStrategy.java:228)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconciled(JavaCompositeReconcilingStrategy.java:171)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:115)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:77)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundWorker.run(AbstractReconciler.java:201)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-01-15 10:57:21.710
+!MESSAGE Timed out after waiting for 300ms for semantic tokens from Language Servers
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1981)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2116)
+	at org.eclipse.lsp4e.jdt.LSJavaSemanticTokensProvider.computeSemanticTokens(LSJavaSemanticTokensProvider.java:68)
+	at org.eclipse.jdt.internal.ui.javaeditor.SemanticHighlightingReconciler.getContributedSemanticTokens(SemanticHighlightingReconciler.java:423)
+	at org.eclipse.jdt.internal.ui.javaeditor.SemanticHighlightingReconciler.reconciled(SemanticHighlightingReconciler.java:470)
+	at org.eclipse.jdt.internal.ui.javaeditor.CompilationUnitEditor.reconciled(CompilationUnitEditor.java:1674)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconciled(JavaReconcilingStrategy.java:228)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconciled(JavaCompositeReconcilingStrategy.java:171)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:115)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:77)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundWorker.run(AbstractReconciler.java:201)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 10:57:24.567
+!MESSAGE TimeoutException
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1981)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2116)
+	at org.eclipse.lsp4e.jdt.LSJavaCompletionProposalComputer.asJavaProposals(LSJavaCompletionProposalComputer.java:82)
+	at org.eclipse.lsp4e.jdt.LSJavaCompletionProposalComputer.computeCompletionProposals(LSJavaCompletionProposalComputer.java:54)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalComputerDescriptor.computeCompletionProposals(CompletionProposalComputerDescriptor.java:353)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalCategory.computeCompletionProposals(CompletionProposalCategory.java:340)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.collectProposals(ContentAssistProcessor.java:332)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.computeCompletionProposals(ContentAssistProcessor.java:288)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$10(AsyncCompletionProposalPopup.java:385)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$9(AsyncCompletionProposalPopup.java:384)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$11(AsyncCompletionProposalPopup.java:419)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-01-15 10:57:28.130
+!MESSAGE Timed out after waiting for 300ms for semantic tokens from Language Servers
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1981)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2116)
+	at org.eclipse.lsp4e.jdt.LSJavaSemanticTokensProvider.computeSemanticTokens(LSJavaSemanticTokensProvider.java:68)
+	at org.eclipse.jdt.internal.ui.javaeditor.SemanticHighlightingReconciler.getContributedSemanticTokens(SemanticHighlightingReconciler.java:423)
+	at org.eclipse.jdt.internal.ui.javaeditor.SemanticHighlightingReconciler.reconciled(SemanticHighlightingReconciler.java:470)
+	at org.eclipse.jdt.internal.ui.javaeditor.CompilationUnitEditor.reconciled(CompilationUnitEditor.java:1674)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconciled(JavaReconcilingStrategy.java:228)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconciled(JavaCompositeReconcilingStrategy.java:171)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:115)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:77)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundWorker.run(AbstractReconciler.java:201)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-01-15 10:57:30.156
+!MESSAGE Timed out after waiting for 300ms for semantic tokens from Language Servers
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1981)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2116)
+	at org.eclipse.lsp4e.jdt.LSJavaSemanticTokensProvider.computeSemanticTokens(LSJavaSemanticTokensProvider.java:68)
+	at org.eclipse.jdt.internal.ui.javaeditor.SemanticHighlightingReconciler.getContributedSemanticTokens(SemanticHighlightingReconciler.java:423)
+	at org.eclipse.jdt.internal.ui.javaeditor.SemanticHighlightingReconciler.reconciled(SemanticHighlightingReconciler.java:470)
+	at org.eclipse.jdt.internal.ui.javaeditor.CompilationUnitEditor.reconciled(CompilationUnitEditor.java:1674)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconciled(JavaReconcilingStrategy.java:228)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconciled(JavaCompositeReconcilingStrategy.java:171)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:115)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:77)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundWorker.run(AbstractReconciler.java:201)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 10:57:58.202
+!MESSAGE 10:57:58.038 [Simple-Language-Server main thread] INFO  o.s.i.v.b.a.BootVersionValidationConfig - Started Boot Version reconciler
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 10:57:58.498
+!MESSAGE 10:57:58.495 [pool-3-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/primeiro_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 10:57:58.505
+!MESSAGE 10:57:58.504 [pool-3-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/primeiro_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 10:57:58.513
+!MESSAGE 10:57:58.511 [pool-3-thread-23] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/primeiro_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 10:57:58.784
+!MESSAGE 10:57:58.783 [Simple-Language-Server main thread] INFO  o.s.i.v.b.jdt.ls.JdtLsProjectCache - Enable classpath listener enabled = true current enablement = false
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 10:57:58.886
+!MESSAGE 10:57:58.880 [Simple-Language-Server main thread] INFO  o.s.i.v.boot.app.SpringSymbolIndex - update settings of spring indexer - start
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 10:57:58.893
+!MESSAGE 10:57:58.887 [Simple-Language-Server main thread] INFO  o.s.i.v.b.a.BootLanguageServerInitializer - Triggering reconcile on all open documents
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 10:57:58.897
+!MESSAGE 10:57:58.896 [Simple-Language-Server main thread] INFO  o.s.i.v.b.j.l.v.SpringProcessConnectorRemote - updating settings for remote processses to track - done
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 10:57:58.901
+!MESSAGE 10:57:58.900 [Simple-Language-Server main thread] INFO  o.s.i.v.b.j.l.v.SpringProcessConnectorRemote - updating settings for remote processses to track - done
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 10:57:59.010
+!MESSAGE WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 10:57:59.012
+!MESSAGE WARNING: sun.misc.Unsafe::objectFieldOffset has been called by com.google.common.util.concurrent.AbstractFuture$UnsafeAtomicHelper (file:/C:/sts-5.0.0.RELEASE/plugins/org.springframework.tooling.boot.ls_2.0.0.202512051827/servers/spring-boot-language-server/lib/guava-31.1-jre.jar)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 10:57:59.013
+!MESSAGE WARNING: Please consider reporting this to the maintainers of class com.google.common.util.concurrent.AbstractFuture$UnsafeAtomicHelper
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 10:57:59.013
+!MESSAGE WARNING: sun.misc.Unsafe::objectFieldOffset will be removed in a future release
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 10:57:59.514
+!MESSAGE 10:57:59.512 [pool-5-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/curso-java-completo-udemy/primeiro_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 10:58:02.328
+!MESSAGE 10:58:02.327 [pool-5-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/primeiro_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 10:58:19.338
+!MESSAGE 10:58:02.335 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/curso-java-completo-udemy/primeiro_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 10:58:19.572
+!MESSAGE 10:58:19.570 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 3
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 10:58:20.119
+!MESSAGE 10:58:20.086 [pool-5-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/curso-java-completo-udemy/primeiro_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 10:58:20.467
+!MESSAGE 10:58:20.138 [pool-3-thread-20] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/primeiro_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 10:58:20.646
+!MESSAGE 10:58:20.644 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/primeiro_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 10:58:21.076
+!MESSAGE 10:58:21.075 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/primeiro_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 10:58:21.452
+!MESSAGE 10:58:21.450 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/primeiro_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 10:58:21.707
+!MESSAGE 10:58:21.706 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/primeiro_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 10:58:22.028
+!MESSAGE 10:58:22.027 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/primeiro_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 10:58:22.209
+!MESSAGE 10:58:22.208 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/primeiro_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 10:58:22.715
+!MESSAGE 10:58:22.211 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 3ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 10:58:22.729
+!MESSAGE 10:58:22.728 [pool-5-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/primeiro_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 10:58:22.898
+!MESSAGE 10:58:22.765 [pool-3-thread-23] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/primeiro_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 10:58:23.424
+!MESSAGE 10:58:23.401 [pool-5-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/curso-java-completo-udemy/primeiro_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 10:58:23.429
+!MESSAGE 10:58:23.425 [Reconciler-1] INFO  o.s.i.v.b.j.r.JdtReconciler - reconciling (JDT): file:///C:/curso-java-completo-udemy/primeiro_projeto/src/Program.java done in 24ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 10:58:39.316
+!MESSAGE 10:58:39.315 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/primeiro_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 10:58:39.834
+!MESSAGE 10:58:39.817 [pool-5-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/curso-java-completo-udemy/primeiro_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 10:58:39.851
+!MESSAGE 10:58:39.850 [Reconciler-1] INFO  o.s.i.v.b.j.r.JdtReconciler - reconciling (JDT): file:///C:/curso-java-completo-udemy/primeiro_projeto/src/Program.java done in 33ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 10:58:41.390
+!MESSAGE 10:58:41.376 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - doc save event: file:///C:/curso-java-completo-udemy/primeiro_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 10:58:41.437
+!MESSAGE 10:58:41.432 [Simple-Language-Server main thread] INFO  o.s.i.v.boot.app.SpringSymbolIndex - Update document [file changed]: file:///C:/curso-java-completo-udemy/primeiro_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:00:38.072
+!MESSAGE 10:58:41.670 [Simple-Language-Server main thread] INFO  o.s.i.v.c.l.u.SimpleWorkspaceService - file changed event: [file:///C:/curso-java-completo-udemy/primeiro_projeto/bin/Program.class]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:00:38.242
+!MESSAGE 11:00:38.241 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:00:38.272
+!MESSAGE 11:00:38.271 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:00:41.518
+!MESSAGE 11:00:38.273 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:00:42.023
+!MESSAGE 11:00:41.592 [pool-3-thread-28] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:00:56.141
+!MESSAGE 11:00:42.033 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:00:56.142
+!MESSAGE 11:00:55.639 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:00:56.145
+!MESSAGE 11:00:56.144 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:00:57.965
+!MESSAGE 11:00:57.963 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:00:58.161
+!MESSAGE 11:00:58.105 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:00:58.266
+!MESSAGE 11:00:58.265 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 6
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:00:58.771
+!MESSAGE 11:00:58.623 [pool-3-thread-27] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:00:58.780
+!MESSAGE 11:00:58.779 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:00:58.899
+!MESSAGE 11:00:58.782 [Reconciler-1] INFO  o.s.i.v.b.j.r.JdtReconciler - reconciling (JDT): file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java done in 11ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:00:58.900
+!MESSAGE 11:00:58.897 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 8
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:00:59.400
+!MESSAGE 11:00:59.044 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:00:59.405
+!MESSAGE 11:00:59.404 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:00:59.754
+!MESSAGE 11:00:59.753 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:00:59.873
+!MESSAGE 11:00:59.873 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 10
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:00.218
+!MESSAGE 11:01:00.217 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:00.719
+!MESSAGE 11:01:00.718 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:00.725
+!MESSAGE 11:01:00.724 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:00.928
+!MESSAGE 11:01:00.927 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:00.929
+!MESSAGE 11:01:00.928 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 3ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:01.322
+!MESSAGE 11:01:01.321 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 13
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:01.841
+!MESSAGE 11:01:01.823 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:01.842
+!MESSAGE 11:01:01.838 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:01.843
+!MESSAGE 11:01:01.839 [pool-14-thread-1] ERROR o.s.i.v.b.j.u.CompilationUnitCache - 
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:01.844
+!MESSAGE java.util.concurrent.CompletionException: java.util.concurrent.CancellationException
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:01.845
+!MESSAGE 	at java.base/java.util.concurrent.CompletableFuture.wrapInCompletionException(CompletableFuture.java:323)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:01.847
+!MESSAGE 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:376)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:01.849
+!MESSAGE 	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:391)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:01.850
+!MESSAGE 	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:729)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:01.850
+!MESSAGE 	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:531)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:01.851
+!MESSAGE 	at java.base/java.util.concurrent.CompletableFuture.cancel(CompletableFuture.java:2554)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:01.852
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.utils.CompilationUnitCache$1.onRemoval(CompilationUnitCache.java:106)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:01.853
+!MESSAGE 	at com.google.common.cache.LocalCache.processPendingNotifications(LocalCache.java:1814)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:01.854
+!MESSAGE 	at com.google.common.cache.LocalCache$Segment.runUnlockedCleanup(LocalCache.java:3467)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:01.854
+!MESSAGE 	at com.google.common.cache.LocalCache$Segment.postWriteCleanup(LocalCache.java:3443)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:01.855
+!MESSAGE 	at com.google.common.cache.LocalCache$Segment.remove(LocalCache.java:3077)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:01.857
+!MESSAGE 	at com.google.common.cache.LocalCache.remove(LocalCache.java:4251)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:01.858
+!MESSAGE 	at com.google.common.cache.LocalCache$LocalManualCache.invalidate(LocalCache.java:4891)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:01.860
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.utils.CompilationUnitCache.invalidateCuForJavaFile(CompilationUnitCache.java:383)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:01.861
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.utils.CompilationUnitCache.lambda$new$0(CompilationUnitCache.java:130)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:01.862
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.ListenerList.fire(ListenerList.java:29)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:01.862
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.SimpleTextDocumentService.didChange(SimpleTextDocumentService.java:210)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:01.863
+!MESSAGE 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:01.864
+!MESSAGE 	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:01.864
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:01.865
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:01.866
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:01.866
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:01.867
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.ParentProcessWatcher.lambda$apply$0(ParentProcessWatcher.java:129)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:01.868
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:01.870
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:01.871
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:01.871
+!MESSAGE 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:01.872
+!MESSAGE 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:01.872
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:01.873
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:01.874
+!MESSAGE 	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:01.875
+!MESSAGE Caused by: java.util.concurrent.CancellationException: null
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:01.876
+!MESSAGE 	at java.base/java.util.concurrent.CompletableFuture.cancel(CompletableFuture.java:2552)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:01.876
+!MESSAGE 	... 26 common frames omitted
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:01.878
+!MESSAGE 11:01:01.841 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 5ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:02.083
+!MESSAGE 11:01:02.082 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 15
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:02.587
+!MESSAGE 11:01:02.586 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:02.636
+!MESSAGE 11:01:02.636 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:03.779
+!MESSAGE 11:01:03.778 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:03.782
+!MESSAGE 11:01:03.781 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 4ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:03.921
+!MESSAGE 11:01:03.920 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 17
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:03.923
+!MESSAGE 11:01:03.921 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:04.426
+!MESSAGE 11:01:04.395 [pool-3-thread-27] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:04.483
+!MESSAGE 11:01:04.483 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:04.578
+!MESSAGE 11:01:04.577 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:04.903
+!MESSAGE 11:01:04.902 [pool-3-thread-28] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:05.014
+!MESSAGE 11:01:05.012 [pool-3-thread-28] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:05.093
+!MESSAGE 11:01:05.081 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:05.095
+!MESSAGE 11:01:05.095 [Reconciler-1] INFO  o.s.i.v.b.j.r.JdtReconciler - reconciling (JDT): file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java done in 15ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:05.724
+!MESSAGE 11:01:05.711 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 2ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:05.881
+!MESSAGE 11:01:05.783 [pool-3-thread-28] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:06.178
+!MESSAGE 11:01:06.177 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:06.811
+!MESSAGE 11:01:06.321 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:06.844
+!MESSAGE 11:01:06.825 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:07.969
+!MESSAGE 11:01:07.968 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:08.473
+!MESSAGE 11:01:08.063 [pool-3-thread-28] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:08.483
+!MESSAGE 11:01:08.482 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:08.484
+!MESSAGE 11:01:08.484 [Reconciler-1] INFO  o.s.i.v.b.j.r.JdtReconciler - reconciling (JDT): file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java done in 12ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:08.824
+!MESSAGE 11:01:08.705 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:09.217
+!MESSAGE 11:01:09.209 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:09.419
+!MESSAGE 11:01:09.416 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:09.560
+!MESSAGE 11:01:09.560 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 27
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:10.063
+!MESSAGE 11:01:10.063 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:11.549
+!MESSAGE 11:01:11.543 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:11.552
+!MESSAGE 11:01:11.551 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:11.610
+!MESSAGE 11:01:11.609 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:12.111
+!MESSAGE 11:01:12.111 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:12.172
+!MESSAGE 11:01:12.171 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:13.084
+!MESSAGE 11:01:13.082 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:13.373
+!MESSAGE 11:01:13.372 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 31
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:13.875
+!MESSAGE 11:01:13.874 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:13.888
+!MESSAGE 11:01:13.886 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:13.889
+!MESSAGE p(LocalCache.java:3467)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:13.891
+!MESSAGE 	at com.google.common.cache.LocalCache$Segment.postWriteCleanup(LocalCache.java:3443)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:13.892
+!MESSAGE 	at com.google.common.cache.LocalCache$Segment.remove(LocalCache.java:3077)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:13.894
+!MESSAGE 	at com.google.common.cache.LocalCache.remove(LocalCache.java:4251)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:13.895
+!MESSAGE 	at com.google.common.cache.LocalCache$LocalManualCache.invalidate(LocalCache.java:4891)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:13.896
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.utils.CompilationUnitCache.invalidateCuForJavaFile(CompilationUnitCache.java:383)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:13.898
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.utils.CompilationUnitCache.lambda$new$0(CompilationUnitCache.java:130)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:13.900
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.ListenerList.fire(ListenerList.java:29)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:13.901
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.SimpleTextDocumentService.didChange(SimpleTextDocumentService.java:210)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:13.902
+!MESSAGE 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:13.905
+!MESSAGE 	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:13.907
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:13.909
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:13.910
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:13.911
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:13.912
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.ParentProcessWatcher.lambda$apply$0(ParentProcessWatcher.java:129)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:13.912
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:13.913
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:13.914
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:13.915
+!MESSAGE 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:13.917
+!MESSAGE 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:13.918
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:13.919
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:13.919
+!MESSAGE 	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:13.920
+!MESSAGE Caused by: java.util.concurrent.CancellationException: null
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:13.920
+!MESSAGE 	at java.base/java.util.concurrent.CompletableFuture.cancel(CompletableFuture.java:2552)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:13.921
+!MESSAGE 	... 26 common frames omitted
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:14.059
+!MESSAGE 11:01:14.058 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:14.258
+!MESSAGE 11:01:14.257 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 34
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:14.483
+!MESSAGE 11:01:14.482 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 35
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:14.684
+!MESSAGE 11:01:14.683 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 36
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:14.986
+!MESSAGE 11:01:14.986 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:15.175
+!MESSAGE 11:01:15.174 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:15.698
+!MESSAGE 11:01:15.679 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:15.707
+!MESSAGE 11:01:15.702 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:15.851
+!MESSAGE 11:01:15.851 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 39
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:16.353
+!MESSAGE 11:01:16.353 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:16.359
+!MESSAGE 11:01:16.357 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:18.863
+!MESSAGE 11:01:18.859 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:19.367
+!MESSAGE 11:01:19.366 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:19.381
+!MESSAGE 11:01:19.379 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:27.158
+!MESSAGE 11:01:19.382 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:27.167
+!MESSAGE 11:01:27.166 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-15 11:01:36.320
+!MESSAGE 11:01:36.311 [pool-3-thread-28] INFO  o.s.i.v.boot.app.SpringSymbolIndex - Update document [didSave event]: file:///C:/curso-java-completo-udemy/segunfo_projeto/src/Program.java
