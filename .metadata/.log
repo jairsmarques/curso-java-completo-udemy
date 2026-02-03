@@ -75,3 +75,63 @@ Java Model Exception: Error in Java Model (code 969): secao08_manipulando_um_dat
 
 !ENTRY org.eclipse.lsp4e 4 0 2026-02-03 16:06:48.241
 !MESSAGE 16:06:47.238 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao08_manipulando_um_date_com_calendar_somando_uma_unidade_de_tempo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-03 16:14:11.639
+!MESSAGE 16:14:11.382 [Simple-Language-Server main thread] INFO  o.s.i.v.c.l.u.SimpleWorkspaceService - file created event: [file:///C:/curso-java-completo-udemy/secao08_manipulando_um_date_com_calendar_obtendo_uma_unidade_de_tempo/bin/application/Program.class]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-03 16:14:12.150
+!MESSAGE 16:14:12.144 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao08_manipulando_um_date_com_calendar_obtendo_uma_unidade_de_tempo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-03 16:14:12.183
+!MESSAGE 16:14:12.182 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao08_manipulando_um_date_com_calendar_obtendo_uma_unidade_de_tempo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-03 16:14:27.619
+!MESSAGE 16:14:27.609 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/curso-java-completo-udemy/secao08_manipulando_um_date_com_calendar_obtendo_uma_unidade_de_tempo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-03 16:14:27.912
+!MESSAGE 16:14:27.909 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao08_manipulando_um_date_com_calendar_obtendo_uma_unidade_de_tempo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-03 16:14:28.416
+!MESSAGE 16:14:28.414 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao08_manipulando_um_date_com_calendar_obtendo_uma_unidade_de_tempo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-03 16:14:28.447
+!MESSAGE 16:14:28.445 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao08_manipulando_um_date_com_calendar_obtendo_uma_unidade_de_tempo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-03 16:14:29.667
+!MESSAGE 16:14:29.665 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao08_manipulando_um_date_com_calendar_obtendo_uma_unidade_de_tempo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-03 16:14:30.170
+!MESSAGE 16:14:29.770 [pool-3-thread-24] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao08_manipulando_um_date_com_calendar_obtendo_uma_unidade_de_tempo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-03 16:14:30.187
+!MESSAGE 16:14:30.186 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao08_manipulando_um_date_com_calendar_obtendo_uma_unidade_de_tempo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-03 16:14:35.832
+!MESSAGE 16:14:35.809 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/curso-java-completo-udemy/secao08_manipulando_um_date_com_calendar_obtendo_uma_unidade_de_tempo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-03 16:14:40.745
+!MESSAGE 16:14:40.744 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao08_manipulando_um_date_com_calendar_obtendo_uma_unidade_de_tempo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-03 16:14:41.247
+!MESSAGE 16:14:41.247 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao08_manipulando_um_date_com_calendar_obtendo_uma_unidade_de_tempo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-03 16:14:41.252
+!MESSAGE 16:14:41.252 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao08_manipulando_um_date_com_calendar_obtendo_uma_unidade_de_tempo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-03 16:14:45.146
+!MESSAGE 16:14:45.146 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao08_manipulando_um_date_com_calendar_obtendo_uma_unidade_de_tempo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-03 16:14:45.651
+!MESSAGE 16:14:45.650 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao08_manipulando_um_date_com_calendar_obtendo_uma_unidade_de_tempo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-03 16:14:45.668
+!MESSAGE 16:14:45.666 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao08_manipulando_um_date_com_calendar_obtendo_uma_unidade_de_tempo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-03 16:14:57.563
+!MESSAGE 16:14:57.049 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/curso-java-completo-udemy/secao08_manipulando_um_date_com_calendar_obtendo_uma_unidade_de_tempo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-03 16:14:57.564
+!MESSAGE 16:14:57.062 [Reconciler-1] INFO  o.s.i.v.b.j.r.JdtReconciler - reconciling (JDT): file:///C:/curso-java-completo-udemy/secao08_manipulando_um_date_com_calendar_obtendo_uma_unidade_de_tempo/src/application/Program.java done in 14ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-03 16:14:58.239
+!MESSAGE 16:14:57.576 [Simple-Language-Server main thread] INFO  o.s.i.v.boot.app.SpringSymbolIndex - Update document [file changed]: file:///C:/curso-java-completo-udemy/secao08_manipulando_um_date_com_calendar_obtendo_uma_unidade_de_tempo/src/application/Program.java
