@@ -11,3 +11,67 @@ Created Time: 2026-02-03 15:52:04.747
 
 !ENTRY org.eclipse.lsp4e 4 0 2026-02-03 15:52:04.747
 !MESSAGE 15:49:25.583 [pool-3-thread-6] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - hover computation done in 3ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-03 16:04:37.042
+!MESSAGE 15:52:17.586 [pool-3-thread-7] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - hover computation done in 2ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-03 16:04:37.532
+!MESSAGE 16:04:37.531 [pool-5-thread-3] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/curso-java-completo-udemy/secao08_manipulando_um_date_com_calendar/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-03 16:04:37.550
+!MESSAGE 16:04:37.549 [pool-5-thread-3] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao08_manipulando_um_date_com_calendar/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-03 16:05:08.188
+!MESSAGE 16:05:08.187 [pool-5-thread-3] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao08_manipulando_um_date_com_calendar/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-03 16:05:09.875
+!MESSAGE 16:05:09.874 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao08_manipulando_um_date_com_calendar/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-03 16:05:10.378
+!MESSAGE 16:05:10.377 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao08_manipulando_um_date_com_calendar/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-03 16:05:10.386
+!MESSAGE 16:05:10.385 [pool-5-thread-3] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao08_manipulando_um_date_com_calendar/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-03 16:05:14.886
+!MESSAGE 16:05:14.880 [pool-5-thread-3] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/curso-java-completo-udemy/secao08_manipulando_um_date_com_calendar/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-03 16:05:14.887
+!MESSAGE 16:05:14.885 [Reconciler-1] INFO  o.s.i.v.b.j.r.JdtReconciler - reconciling (JDT): file:///C:/curso-java-completo-udemy/secao08_manipulando_um_date_com_calendar/src/application/Program.java done in 5ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-03 16:05:19.561
+!MESSAGE 16:05:19.560 [pool-5-thread-3] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao08_manipulando_um_date_com_calendar/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-03 16:05:23.307
+!MESSAGE 16:05:23.306 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao08_manipulando_um_date_com_calendar/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-03 16:05:23.810
+!MESSAGE 16:05:23.809 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao08_manipulando_um_date_com_calendar/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-03 16:05:23.815
+!MESSAGE 16:05:23.814 [pool-5-thread-3] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao08_manipulando_um_date_com_calendar/src/application/Program.java
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2026-02-03 16:06:33.455
+!MESSAGE Failed to refresh Code Minings for editor.
+!STACK 1
+Java Model Exception: Error in Java Model (code 969): secao08_manipulando_um_date_com_calendar does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:548)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getPerProjectInfoCheckExistence(JavaModelManager.java:2550)
+	at org.eclipse.jdt.internal.core.JavaProject.getPerProjectInfo(JavaProject.java:2371)
+	at org.eclipse.jdt.internal.core.JavaProject.getRawClasspath(JavaProject.java:2414)
+	at org.springframework.tooling.ls.eclipse.commons.STS4LanguageClientImpl.lambda$9(STS4LanguageClientImpl.java:440)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ReusableClasspathListenerHandler$CallbackJob.lambda$0(ReusableClasspathListenerHandler.java:76)
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ReusableClasspathListenerHandler$CallbackJob.run(ReusableClasspathListenerHandler.java:76)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2026-02-03 16:06:33.456
+!MESSAGE secao08_manipulando_um_date_com_calendar does not exist
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-03 16:06:46.350
+!MESSAGE 16:06:46.349 [pool-5-thread-4] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao08_manipulando_um_date_com_calendar_somando_uma_unidade_de_tempo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-03 16:06:46.696
+!MESSAGE 16:06:46.683 [pool-3-thread-14] INFO  o.s.i.v.boot.app.SpringSymbolIndex - Update document [didSave event]: file:///C:/curso-java-completo-udemy/secao08_manipulando_um_date_com_calendar_somando_uma_unidade_de_tempo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-03 16:06:48.241
+!MESSAGE 16:06:47.238 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao08_manipulando_um_date_com_calendar_somando_uma_unidade_de_tempo/src/application/Program.java
