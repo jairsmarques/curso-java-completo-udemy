@@ -6185,3 +6185,1185 @@ Binding(CTRL+SHIFT+T,
 
 !ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:37:42.899
 !MESSAGE 09:37:36.705 [pool-3-thread-62] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:44:45.914
+!MESSAGE 09:44:45.913 [pool-5-thread-12] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccount.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:44:46.359
+!MESSAGE 09:44:45.916 [Reconciler-1] INFO  o.s.i.v.b.j.r.JdtReconciler - reconciling (JDT): file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccount.java done in 156ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:44:46.647
+!MESSAGE 09:44:46.468 [pool-3-thread-66] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccount.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:44:46.922
+!MESSAGE 09:44:46.917 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccount.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:44:47.071
+!MESSAGE 09:44:47.068 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 161
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:44:47.295
+!MESSAGE 09:44:47.294 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccount.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:44:47.797
+!MESSAGE 09:44:47.797 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccount.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:44:47.815
+!MESSAGE 09:44:47.813 [pool-5-thread-12] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccount.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:44:51.593
+!MESSAGE 09:44:51.590 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccount.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:44:51.781
+!MESSAGE 09:44:51.780 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 164
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:44:51.950
+!MESSAGE 09:44:51.949 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 165
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:44:52.095
+!MESSAGE 09:44:52.093 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccount.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:44:52.254
+!MESSAGE 09:44:52.224 [pool-3-thread-65] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccount.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:44:52.759
+!MESSAGE 09:44:52.747 [pool-3-thread-66] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccount.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:44:52.762
+!MESSAGE 09:44:52.760 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccount.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:44:52.797
+!MESSAGE 09:44:52.796 [pool-5-thread-12] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccount.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:44:53.234
+!MESSAGE 09:44:52.798 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccount.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:44:53.261
+!MESSAGE 09:44:53.260 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccount.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:44:54.703
+!MESSAGE 09:44:54.702 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccount.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:44:55.073
+!MESSAGE 09:44:54.704 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 3ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:44:55.229
+!MESSAGE 09:44:55.205 [pool-5-thread-12] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccount.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:44:55.230
+!MESSAGE 09:44:55.230 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccount.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:44:55.751
+!MESSAGE 09:44:55.231 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccount.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:44:55.864
+!MESSAGE 09:44:55.751 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 3ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:44:55.926
+!MESSAGE 09:44:55.925 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccount.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:44:56.157
+!MESSAGE 09:44:55.927 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 2ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:44:56.270
+!MESSAGE 09:44:56.269 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 173
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:44:56.390
+!MESSAGE 09:44:56.389 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 174
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:44:56.908
+!MESSAGE 09:44:56.865 [pool-3-thread-66] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccount.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:44:59.673
+!MESSAGE 09:44:56.909 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccount.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:45:20.350
+!MESSAGE 09:45:19.990 [Simple-Language-Server main thread] INFO  o.s.i.v.c.l.u.SimpleWorkspaceService - file created event: [file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/bin/entities/SavingsAccountPlus.class]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:45:20.351
+!MESSAGE 09:45:20.350 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:45:20.488
+!MESSAGE 09:45:20.370 [pool-3-thread-64] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:45:20.856
+!MESSAGE 09:45:20.855 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:45:20.861
+!MESSAGE 09:45:20.860 [pool-5-thread-12] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:45:22.688
+!MESSAGE 09:45:22.255 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:45:22.784
+!MESSAGE 09:45:22.767 [pool-5-thread-12] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:45:23.232
+!MESSAGE 09:45:22.785 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:45:23.502
+!MESSAGE 09:45:23.502 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 4
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:45:23.823
+!MESSAGE 09:45:23.503 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:45:23.886
+!MESSAGE 09:45:23.885 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:45:24.335
+!MESSAGE 09:45:23.989 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:45:24.479
+!MESSAGE 09:45:24.478 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:45:24.982
+!MESSAGE 09:45:24.981 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 8
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:45:25.110
+!MESSAGE 09:45:25.109 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:45:25.279
+!MESSAGE 09:45:25.278 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:45:25.781
+!MESSAGE 09:45:25.781 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:45:25.790
+!MESSAGE 09:45:25.790 [pool-5-thread-12] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:45:26.278
+!MESSAGE 09:45:26.277 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:45:26.446
+!MESSAGE 09:45:26.445 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 12
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:45:26.948
+!MESSAGE 09:45:26.948 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:45:26.959
+!MESSAGE 09:45:26.959 [pool-5-thread-12] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:45:26.967
+!MESSAGE 09:45:26.960 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:45:29.302
+!MESSAGE 09:45:26.968 [pool-3-thread-67] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Got 0 completions in 2ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:45:29.804
+!MESSAGE 09:45:29.414 [pool-3-thread-67] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:45:29.813
+!MESSAGE 09:45:29.813 [pool-5-thread-12] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:45:31.477
+!MESSAGE 09:45:31.477 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:45:31.980
+!MESSAGE 09:45:31.980 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:45:31.986
+!MESSAGE 09:45:31.985 [pool-5-thread-12] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:45:34.487
+!MESSAGE 09:45:34.486 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:45:34.905
+!MESSAGE 09:45:34.904 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 16
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:45:35.057
+!MESSAGE 09:45:35.055 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 17
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:45:35.565
+!MESSAGE 09:45:35.565 [pool-3-thread-67] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:45:35.575
+!MESSAGE 09:45:35.574 [pool-5-thread-12] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:45:37.558
+!MESSAGE 09:45:37.557 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:45:38.060
+!MESSAGE 09:45:38.060 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:45:38.065
+!MESSAGE 09:45:38.064 [pool-5-thread-12] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:45:38.694
+!MESSAGE 09:45:38.629 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:45:38.774
+!MESSAGE 09:45:38.773 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:45:39.150
+!MESSAGE 09:45:38.917 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:45:39.152
+!MESSAGE 09:45:39.150 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:45:39.192
+!MESSAGE 09:45:39.152 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 2ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:45:39.510
+!MESSAGE 09:45:39.509 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:45:39.657
+!MESSAGE 09:45:39.655 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:45:40.158
+!MESSAGE 09:45:40.157 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:45:40.163
+!MESSAGE 09:45:40.162 [pool-5-thread-12] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:45:52.110
+!MESSAGE 09:45:52.109 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:45:52.561
+!MESSAGE 09:45:52.122 [Simple-Language-Server main thread] INFO  o.s.i.v.c.l.u.SimpleWorkspaceService - file deleted event: [file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:46:06.270
+!MESSAGE 09:46:04.529 [pool-3-thread-67] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccount.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:46:06.284
+!MESSAGE 09:46:06.281 [Simple-Language-Server main thread] INFO  o.s.i.v.c.l.u.SimpleWorkspaceService - file changed event: [file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccount.java]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:46:11.197
+!MESSAGE 09:46:11.196 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccount.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:46:11.542
+!MESSAGE 09:46:11.541 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 176
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:46:11.694
+!MESSAGE 09:46:11.693 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccount.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:46:11.853
+!MESSAGE 09:46:11.852 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 178
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:46:12.014
+!MESSAGE 09:46:12.013 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccount.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:46:12.174
+!MESSAGE 09:46:12.172 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccount.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:46:12.675
+!MESSAGE 09:46:12.675 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccount.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:46:12.683
+!MESSAGE 09:46:12.683 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccount.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:46:16.062
+!MESSAGE 09:46:12.684 [Reconciler-1] INFO  o.s.i.v.b.j.r.JdtReconciler - reconciling (JDT): file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccount.java done in 9ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:46:16.193
+!MESSAGE 09:46:16.065 [Simple-Language-Server main thread] INFO  o.s.i.v.boot.app.SpringSymbolIndex - Update document [file changed]: file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccount.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:47:10.167
+!MESSAGE 09:47:10.166 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 1
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:47:10.186
+!MESSAGE 09:47:10.185 [Simple-Language-Server main thread] INFO  o.s.i.v.c.l.u.SimpleWorkspaceService - file created event: [file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/bin/entities/SavingsAccountPlus.class]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:47:10.542
+!MESSAGE 09:47:10.526 [pool-3-thread-68] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:47:10.738
+!MESSAGE 09:47:10.738 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:47:10.797
+!MESSAGE 09:47:10.796 [pool-5-thread-12] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:47:40.614
+!MESSAGE 09:47:40.613 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:47:40.617
+!MESSAGE 09:47:40.617 [pool-5-thread-12] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:47:41.433
+!MESSAGE 09:47:41.431 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:47:41.789
+!MESSAGE 09:47:41.787 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 4
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:47:42.293
+!MESSAGE 09:47:42.292 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:47:42.306
+!MESSAGE 09:47:42.305 [pool-5-thread-12] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:47:51.424
+!MESSAGE 09:47:51.423 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 5
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:47:51.928
+!MESSAGE 09:47:51.927 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:47:51.940
+!MESSAGE 09:47:51.939 [pool-5-thread-12] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:47:52.281
+!MESSAGE 09:47:52.278 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:47:52.661
+!MESSAGE 09:47:52.661 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 7
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:47:53.062
+!MESSAGE 09:47:53.061 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 8
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:47:53.182
+!MESSAGE 09:47:53.181 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:47:53.568
+!MESSAGE 09:47:53.566 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 10
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:47:53.950
+!MESSAGE 09:47:53.949 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 11
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:47:54.046
+!MESSAGE 09:47:54.045 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:47:54.548
+!MESSAGE 09:47:54.548 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:47:54.555
+!MESSAGE 09:47:54.554 [pool-5-thread-12] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:47:54.630
+!MESSAGE 09:47:54.629 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:47:55.133
+!MESSAGE 09:47:55.132 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:47:55.142
+!MESSAGE 09:47:55.141 [pool-5-thread-12] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:47:55.841
+!MESSAGE 09:47:55.838 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:47:56.030
+!MESSAGE 09:47:56.029 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:47:56.534
+!MESSAGE 09:47:56.532 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:47:56.543
+!MESSAGE 09:47:56.543 [pool-5-thread-12] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:47:56.879
+!MESSAGE 09:47:56.879 [pool-3-thread-70] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:47:56.882
+!MESSAGE 09:47:56.881 [pool-3-thread-70] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:47:58.105
+!MESSAGE 09:47:58.104 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:47:58.619
+!MESSAGE 09:47:58.618 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:47:58.624
+!MESSAGE 09:47:58.624 [pool-5-thread-12] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:48:01.368
+!MESSAGE 09:48:01.350 [Simple-Language-Server main thread] INFO  o.s.i.v.boot.app.SpringSymbolIndex - Update document [file changed]: file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:48:03.090
+!MESSAGE 09:48:03.089 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 17
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:48:03.594
+!MESSAGE 09:48:03.150 [pool-3-thread-71] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:48:03.599
+!MESSAGE 09:48:03.598 [pool-5-thread-12] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:48:04.289
+!MESSAGE 09:48:04.278 [pool-3-thread-70] INFO  o.s.i.v.boot.app.SpringSymbolIndex - Update document [didSave event]: file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:48:05.487
+!MESSAGE 09:48:04.762 [Simple-Language-Server main thread] INFO  o.s.i.v.c.l.u.SimpleWorkspaceService - file changed event: [file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/bin/entities/SavingsAccountPlus.class]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:49:02.943
+!MESSAGE 09:49:02.578 [pool-3-thread-71] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccount.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:49:02.974
+!MESSAGE 09:49:02.974 [pool-5-thread-12] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccount.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:49:03.334
+!MESSAGE 09:49:03.333 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccount.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:49:03.550
+!MESSAGE 09:49:03.549 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 183
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:49:03.781
+!MESSAGE 09:49:03.550 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:49:03.893
+!MESSAGE 09:49:03.892 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 185
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:49:04.205
+!MESSAGE 09:49:04.204 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 186
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:49:04.707
+!MESSAGE 09:49:04.706 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccount.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:49:04.718
+!MESSAGE 09:49:04.718 [pool-5-thread-12] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccount.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:49:05.595
+!MESSAGE 09:49:05.594 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - doc save event: file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccount.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:49:05.844
+!MESSAGE 09:49:05.604 [Simple-Language-Server main thread] INFO  o.s.i.v.boot.app.SpringSymbolIndex - Update document [file changed]: file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccount.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:49:21.778
+!MESSAGE 09:49:21.778 [pool-3-thread-71] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:49:40.026
+!MESSAGE 09:49:23.827 [pool-3-thread-71] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - hover computation done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:49:40.027
+!MESSAGE 09:49:40.026 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:49:40.735
+!MESSAGE 09:49:40.037 [Simple-Language-Server main thread] INFO  o.s.i.v.c.l.u.SimpleWorkspaceService - file deleted event: [file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccountPlus.java]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:49:44.606
+!MESSAGE 09:49:44.605 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccount.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:49:44.855
+!MESSAGE 09:49:44.853 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 188
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:49:45.342
+!MESSAGE 09:49:45.341 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 189
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:49:45.510
+!MESSAGE 09:49:45.509 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccount.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:49:45.678
+!MESSAGE 09:49:45.677 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccount.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:49:45.829
+!MESSAGE 09:49:45.828 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 192
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:49:46.333
+!MESSAGE 09:49:46.332 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccount.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:49:46.342
+!MESSAGE 09:49:46.342 [Reconciler-1] INFO  o.s.i.v.b.j.r.JdtReconciler - reconciling (JDT): file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccount.java done in 10ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:49:49.520
+!MESSAGE 09:49:49.500 [pool-3-thread-71] INFO  o.s.i.v.boot.app.SpringSymbolIndex - Update document [didSave event]: file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/entities/SavingsAccount.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:49:55.560
+!MESSAGE 09:49:49.545 [Simple-Language-Server main thread] INFO  o.s.i.v.c.l.u.SimpleWorkspaceService - file changed event: [file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/bin/entities/SavingsAccount.class]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:50:09.237
+!MESSAGE 09:50:07.538 [pool-3-thread-70] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:50:09.240
+!MESSAGE 09:50:09.239 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:50:09.241
+!MESSAGE 09:50:09.240 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 774
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:50:09.744
+!MESSAGE 09:50:09.743 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:50:10.842
+!MESSAGE 09:50:09.766 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:50:10.876
+!MESSAGE 09:50:10.872 [Simple-Language-Server main thread] INFO  o.s.i.v.c.l.u.SimpleWorkspaceService - file changed event: [file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 09:50:11.375
+!MESSAGE 09:50:10.970 [Simple-Language-Server main thread] INFO  o.s.i.v.c.l.u.SimpleWorkspaceService - file changed event: [file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/bin/application/Program.class]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:01:39.090
+!MESSAGE 10:01:39.088 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 775
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:01:39.599
+!MESSAGE 10:01:39.144 [pool-3-thread-75] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:01:39.638
+!MESSAGE 10:01:39.637 [pool-5-thread-13] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:01:43.478
+!MESSAGE 10:01:43.477 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:01:43.983
+!MESSAGE 10:01:43.981 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:01:44.003
+!MESSAGE 10:01:44.002 [pool-5-thread-13] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:01:44.210
+!MESSAGE 10:01:44.206 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:01:44.461
+!MESSAGE 10:01:44.368 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:01:44.687
+!MESSAGE 10:01:44.583 [pool-3-thread-74] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:01:45.194
+!MESSAGE 10:01:45.192 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:01:45.211
+!MESSAGE 10:01:45.209 [pool-5-thread-13] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:01:45.238
+!MESSAGE 10:01:45.237 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:01:45.511
+!MESSAGE 10:01:45.309 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:01:46.018
+!MESSAGE 10:01:46.016 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:01:47.134
+!MESSAGE 10:01:46.045 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:01:47.480
+!MESSAGE 10:01:47.478 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 785
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:01:47.837
+!MESSAGE 10:01:47.836 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 786
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:01:47.950
+!MESSAGE 10:01:47.949 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:01:48.310
+!MESSAGE 10:01:48.309 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 788
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:01:48.584
+!MESSAGE 10:01:48.583 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:01:48.589
+!MESSAGE 10:01:48.588 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 5ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:01:48.709
+!MESSAGE 10:01:48.707 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:01:48.880
+!MESSAGE 10:01:48.879 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 791
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:01:49.384
+!MESSAGE 10:01:49.382 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:01:49.402
+!MESSAGE 10:01:49.401 [pool-5-thread-13] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:01:49.585
+!MESSAGE 10:01:49.582 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:01:50.079
+!MESSAGE 10:01:50.078 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 793
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:01:50.222
+!MESSAGE 10:01:50.221 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:01:50.234
+!MESSAGE 10:01:50.232 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:01:50.739
+!MESSAGE 10:01:50.737 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:01:51.485
+!MESSAGE 10:01:50.757 [pool-5-thread-13] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:01:51.624
+!MESSAGE 10:01:51.622 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 797
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:01:52.126
+!MESSAGE 10:01:52.126 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:01:52.131
+!MESSAGE 10:01:52.130 [pool-5-thread-13] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:01:52.638
+!MESSAGE 10:01:52.637 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:01:52.758
+!MESSAGE 10:01:52.757 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 799
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:01:53.260
+!MESSAGE 10:01:53.260 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:01:53.264
+!MESSAGE 10:01:53.264 [pool-5-thread-13] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:01:53.367
+!MESSAGE 10:01:53.367 [pool-3-thread-74] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:01:54.896
+!MESSAGE 10:01:53.368 [pool-3-thread-74] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Got 0 completions in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:01:55.060
+!MESSAGE 10:01:55.060 [pool-3-thread-75] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:01:55.063
+!MESSAGE 10:01:55.062 [pool-3-thread-75] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:01:55.399
+!MESSAGE 10:01:55.398 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:01:57.374
+!MESSAGE 10:01:57.374 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 802
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:01:57.885
+!MESSAGE 10:01:57.877 [pool-5-thread-13] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:01:57.887
+!MESSAGE 10:01:57.887 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:01:59.354
+!MESSAGE 10:01:59.351 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:01:59.858
+!MESSAGE 10:01:59.857 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:01:59.872
+!MESSAGE 10:01:59.870 [pool-5-thread-13] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:03.518
+!MESSAGE 10:02:03.517 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 804
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:04.020
+!MESSAGE 10:02:04.019 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:04.027
+!MESSAGE 10:02:04.026 [pool-5-thread-13] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:04.093
+!MESSAGE 10:02:04.093 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:04.302
+!MESSAGE 10:02:04.301 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:04.470
+!MESSAGE 10:02:04.469 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:04.971
+!MESSAGE 10:02:04.971 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:04.978
+!MESSAGE 10:02:04.978 [pool-5-thread-13] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:08.270
+!MESSAGE 10:02:08.269 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 808
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:08.415
+!MESSAGE 10:02:08.415 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 809
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:08.918
+!MESSAGE 10:02:08.917 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:08.923
+!MESSAGE 10:02:08.922 [pool-5-thread-13] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:09.839
+!MESSAGE 10:02:09.838 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:10.270
+!MESSAGE 10:02:10.269 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 811
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:10.414
+!MESSAGE 10:02:10.413 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 812
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:10.674
+!MESSAGE 10:02:10.672 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:11.179
+!MESSAGE 10:02:11.177 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:11.210
+!MESSAGE 10:02:11.199 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:13.617
+!MESSAGE 10:02:13.614 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:13.821
+!MESSAGE 10:02:13.821 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 815
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:13.961
+!MESSAGE 10:02:13.958 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:14.071
+!MESSAGE 10:02:14.069 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:14.318
+!MESSAGE 10:02:14.317 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 818
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:14.334
+!MESSAGE 10:02:14.334 [pool-3-thread-74] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:14.567
+!MESSAGE 10:02:14.335 [pool-3-thread-74] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Got 0 completions in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:14.646
+!MESSAGE 10:02:14.645 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 820
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:15.149
+!MESSAGE 10:02:15.148 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:15.158
+!MESSAGE 10:02:15.157 [pool-5-thread-13] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:16.623
+!MESSAGE 10:02:16.622 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:16.704
+!MESSAGE 10:02:16.623 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:17.131
+!MESSAGE 10:02:17.126 [pool-5-thread-13] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:18.050
+!MESSAGE 10:02:18.046 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:18.551
+!MESSAGE 10:02:18.551 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:18.556
+!MESSAGE 10:02:18.555 [pool-5-thread-13] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:18.997
+!MESSAGE 10:02:18.863 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 4ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:19.096
+!MESSAGE 10:02:19.094 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 825
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:19.295
+!MESSAGE 10:02:19.294 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 826
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:19.798
+!MESSAGE 10:02:19.797 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:19.808
+!MESSAGE 10:02:19.807 [pool-5-thread-13] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:21.143
+!MESSAGE 10:02:21.142 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:21.253
+!MESSAGE 10:02:21.252 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 828
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:21.445
+!MESSAGE 10:02:21.445 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:21.950
+!MESSAGE 10:02:21.948 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:21.961
+!MESSAGE 10:02:21.959 [pool-5-thread-13] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:23.183
+!MESSAGE 10:02:23.182 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:23.461
+!MESSAGE 10:02:23.460 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 831
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:23.686
+!MESSAGE 10:02:23.685 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:23.792
+!MESSAGE 10:02:23.792 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 833
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:24.298
+!MESSAGE 10:02:24.298 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:24.308
+!MESSAGE 10:02:24.307 [pool-5-thread-13] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:25.017
+!MESSAGE 10:02:25.014 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:25.149
+!MESSAGE 10:02:25.148 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 835
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:25.264
+!MESSAGE 10:02:25.262 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:25.406
+!MESSAGE 10:02:25.405 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:25.909
+!MESSAGE 10:02:25.908 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:25.916
+!MESSAGE 10:02:25.915 [pool-5-thread-13] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:26.129
+!MESSAGE 10:02:26.127 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:26.448
+!MESSAGE 10:02:26.447 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 839
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:26.952
+!MESSAGE 10:02:26.950 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:26.967
+!MESSAGE 10:02:26.966 [pool-5-thread-13] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:27.624
+!MESSAGE 10:02:27.622 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:28.032
+!MESSAGE 10:02:28.031 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - completion request arrived: file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:28.125
+!MESSAGE 10:02:28.033 [pool-3-thread-75] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Got 0 completions in 2ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:28.131
+!MESSAGE 10:02:28.131 [pool-5-thread-13] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:30.561
+!MESSAGE 10:02:30.560 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:30.567
+!MESSAGE 10:02:30.566 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:31.076
+!MESSAGE 10:02:31.068 [pool-5-thread-13] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:33.646
+!MESSAGE 10:02:33.645 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 843
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:34.153
+!MESSAGE 10:02:34.151 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:34.172
+!MESSAGE 10:02:34.170 [pool-5-thread-13] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:36.264
+!MESSAGE 10:02:36.263 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 844
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:36.447
+!MESSAGE 10:02:36.446 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 845
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:36.949
+!MESSAGE 10:02:36.948 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:36.953
+!MESSAGE 10:02:36.953 [pool-5-thread-13] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:37.037
+!MESSAGE 10:02:37.037 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:37.169
+!MESSAGE 10:02:37.167 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:37.673
+!MESSAGE 10:02:37.671 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:37.693
+!MESSAGE 10:02:37.690 [pool-5-thread-13] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:40.527
+!MESSAGE 10:02:40.526 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 848
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:40.646
+!MESSAGE 10:02:40.646 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 849
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:41.149
+!MESSAGE 10:02:41.149 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:41.153
+!MESSAGE 10:02:41.153 [pool-5-thread-13] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:42.396
+!MESSAGE 10:02:42.394 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:42.558
+!MESSAGE 10:02:42.558 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:42.882
+!MESSAGE 10:02:42.881 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:43.022
+!MESSAGE 10:02:43.021 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 853
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:43.195
+!MESSAGE 10:02:43.193 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:43.699
+!MESSAGE 10:02:43.698 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:43.708
+!MESSAGE 10:02:43.707 [pool-5-thread-13] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:45.760
+!MESSAGE 10:02:45.758 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 855
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:45.995
+!MESSAGE 10:02:45.993 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:46.125
+!MESSAGE 10:02:46.124 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 857
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:46.249
+!MESSAGE 10:02:46.247 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:46.509
+!MESSAGE 10:02:46.509 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 859
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:46.520
+!MESSAGE 10:02:46.520 [pool-3-thread-74] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:46.751
+!MESSAGE 10:02:46.522 [pool-3-thread-74] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Got 0 completions in 2ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:46.864
+!MESSAGE 10:02:46.862 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:47.366
+!MESSAGE 10:02:47.365 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:47.373
+!MESSAGE 10:02:47.372 [pool-5-thread-13] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:49.278
+!MESSAGE 10:02:49.277 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 862
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:49.489
+!MESSAGE 10:02:49.488 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:49.504
+!MESSAGE 10:02:49.504 [pool-3-thread-75] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:49.659
+!MESSAGE 10:02:49.505 [pool-3-thread-75] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Got 0 completions in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:49.687
+!MESSAGE 10:02:49.686 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:49.865
+!MESSAGE 10:02:49.863 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:50.369
+!MESSAGE 10:02:50.367 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:50.380
+!MESSAGE 10:02:50.379 [pool-5-thread-13] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:53.375
+!MESSAGE 10:02:53.374 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:53.566
+!MESSAGE 10:02:53.566 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 867
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:54.068
+!MESSAGE 10:02:54.068 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:54.072
+!MESSAGE 10:02:54.071 [pool-5-thread-13] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:54.833
+!MESSAGE 10:02:54.830 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:55.248
+!MESSAGE 10:02:55.247 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 869
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:55.286
+!MESSAGE 10:02:55.286 [pool-3-thread-74] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:55.477
+!MESSAGE 10:02:55.287 [pool-3-thread-74] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Got 0 completions in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:56.575
+!MESSAGE 10:02:55.750 [pool-5-thread-13] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:56.577
+!MESSAGE 10:02:55.754 [Reconciler-1] INFO  o.s.i.v.b.j.r.JdtReconciler - reconciling (JDT): file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java done in 4ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:57.081
+!MESSAGE 10:02:57.080 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:02:57.094
+!MESSAGE 10:02:57.093 [pool-5-thread-13] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:03:00.805
+!MESSAGE 10:03:00.804 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:03:01.313
+!MESSAGE 10:03:01.306 [pool-5-thread-13] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:03:01.315
+!MESSAGE 10:03:01.314 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:03:02.909
+!MESSAGE 10:03:02.909 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 872
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:03:03.117
+!MESSAGE 10:03:03.116 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:03:03.628
+!MESSAGE 10:03:03.619 [pool-5-thread-13] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:03:03.631
+!MESSAGE 10:03:03.629 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:03:06.863
+!MESSAGE 10:03:03.638 [pool-3-thread-75] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:03:07.207
+!MESSAGE 10:03:07.207 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 875
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:03:07.709
+!MESSAGE 10:03:07.709 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:03:07.714
+!MESSAGE 10:03:07.714 [pool-5-thread-13] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:03:09.095
+!MESSAGE 10:03:09.094 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 876
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:03:09.598
+!MESSAGE 10:03:09.597 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:03:09.603
+!MESSAGE 10:03:09.603 [pool-5-thread-13] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:03:09.757
+!MESSAGE 10:03:09.757 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:03:10.260
+!MESSAGE 10:03:10.259 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:03:10.265
+!MESSAGE 10:03:10.265 [pool-5-thread-13] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:03:17.523
+!MESSAGE 10:03:14.204 [pool-5-thread-13] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:03:17.524
+!MESSAGE 10:03:14.208 [Reconciler-1] INFO  o.s.i.v.b.j.r.JdtReconciler - reconciling (JDT): file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java done in 4ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:03:18.027
+!MESSAGE 10:03:18.027 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:03:18.034
+!MESSAGE 10:03:18.033 [pool-5-thread-13] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:03:19.193
+!MESSAGE 10:03:19.167 [pool-3-thread-75] INFO  o.s.i.v.boot.app.SpringSymbolIndex - Update document [didSave event]: file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:03:19.702
+!MESSAGE 10:03:19.288 [Simple-Language-Server main thread] INFO  o.s.i.v.c.l.u.SimpleWorkspaceService - file changed event: [file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/bin/application/Program.class]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:03:30.191
+!MESSAGE 10:03:30.191 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:03:30.456
+!MESSAGE 10:03:30.455 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 881
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:03:30.959
+!MESSAGE 10:03:30.959 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:03:30.965
+!MESSAGE 10:03:30.964 [pool-5-thread-13] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:03:31.589
+!MESSAGE 10:03:31.588 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:03:31.687
+!MESSAGE 10:03:31.686 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:03:31.782
+!MESSAGE 10:03:31.781 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 884
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:03:31.997
+!MESSAGE 10:03:31.997 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:03:32.198
+!MESSAGE 10:03:32.197 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:03:32.325
+!MESSAGE 10:03:32.324 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 887
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:03:32.827
+!MESSAGE 10:03:32.827 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:03:32.832
+!MESSAGE 10:03:32.831 [pool-5-thread-13] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:03:33.080
+!MESSAGE 10:03:33.079 [pool-3-thread-74] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:03:33.575
+!MESSAGE 10:03:33.080 [pool-3-thread-74] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Got 0 completions in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:03:34.084
+!MESSAGE 10:03:34.076 [pool-5-thread-13] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:03:34.085
+!MESSAGE 10:03:34.085 [Reconciler-1] INFO  o.s.i.v.b.j.r.JdtReconciler - reconciling (JDT): file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java done in 9ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:03:34.784
+!MESSAGE 10:03:34.782 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 889
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:03:35.056
+!MESSAGE 10:03:35.055 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:03:35.098
+!MESSAGE 10:03:35.097 [pool-3-thread-75] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:03:35.558
+!MESSAGE 10:03:35.099 [pool-3-thread-75] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Got 0 completions in 2ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:03:35.570
+!MESSAGE 10:03:35.569 [pool-5-thread-13] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:03:36.358
+!MESSAGE 10:03:36.357 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 891
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:03:36.446
+!MESSAGE 10:03:36.445 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:03:36.955
+!MESSAGE 10:03:36.949 [pool-5-thread-13] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:03:39.556
+!MESSAGE 10:03:39.555 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 893
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:03:40.066
+!MESSAGE 10:03:40.058 [pool-5-thread-13] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:03:40.067
+!MESSAGE 10:03:40.067 [Reconciler-1] INFO  o.s.i.v.b.j.r.JdtReconciler - reconciling (JDT): file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java done in 9ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:03:43.886
+!MESSAGE 10:03:43.885 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 894
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:03:44.330
+!MESSAGE 10:03:44.328 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 895
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:03:44.834
+!MESSAGE 10:03:44.833 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:03:44.852
+!MESSAGE 10:03:44.852 [pool-5-thread-13] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:03:46.694
+!MESSAGE 10:03:46.693 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 896
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:03:47.110
+!MESSAGE 10:03:46.775 [pool-3-thread-75] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:03:47.612
+!MESSAGE 10:03:47.612 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:03:47.619
+!MESSAGE 10:03:47.618 [pool-5-thread-13] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:03:48.960
+!MESSAGE 10:03:48.956 [pool-3-thread-75] INFO  o.s.i.v.boot.app.SpringSymbolIndex - Update document [didSave event]: file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:03:49.095
+!MESSAGE 10:03:48.960 [Simple-Language-Server main thread] INFO  o.s.i.v.boot.app.SpringSymbolIndex - Update document [file changed]: file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:04:08.095
+!MESSAGE 10:04:08.018 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 898
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:04:08.531
+!MESSAGE 10:04:08.525 [pool-5-thread-13] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-06 10:04:09.050
+!MESSAGE 10:04:09.035 [pool-3-thread-74] INFO  o.s.i.v.boot.app.SpringSymbolIndex - Update document [didSave event]: file:///C:/curso-java-completo-udemy/secao10_heranca_polimorfismo/src/application/Program.java
