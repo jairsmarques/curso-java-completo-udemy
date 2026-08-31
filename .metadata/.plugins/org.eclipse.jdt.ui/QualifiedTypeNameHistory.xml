@@ -2,8 +2,14 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="Util.Calculator"/>
+    <fullyQualifiedTypeName name="entities.Account"/>
     <fullyQualifiedTypeName name="entities.Product"/>
+    <fullyQualifiedTypeName name="java.awt.List"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.stream.Collector"/>
+    <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
     <fullyQualifiedTypeName name="java.util.Locale"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="entities.Account"/>
+    <fullyQualifiedTypeName name="java.lang.StringIndexOutOfBoundsException"/>
 </qualifiedTypeNameHistroy>
